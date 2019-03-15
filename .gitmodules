@@ -1,0 +1,3 @@
+[submodule "submod-example-submod"]
+	path = submod-example-submod
+	url = https://github.com/rywils21/submod-example-submod.git
